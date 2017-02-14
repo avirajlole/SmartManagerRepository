@@ -1,0 +1,13 @@
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\bin\Debug\SmartManager.exe.config
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\bin\Debug\SmartManager.exe
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\bin\Debug\SmartManager.pdb
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.csprojResolveAssemblyReference.cache
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\MainWindow.baml
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\MainWindow.g.cs
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\App.g.cs
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager_MarkupCompile.cache
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.g.resources
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.Properties.Resources.resources
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.csproj.GenerateResource.Cache
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.exe
+D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
