@@ -11,3 +11,6 @@ D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\o
 D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.csproj.GenerateResource.Cache
 D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.exe
 D:\Aviraj\SmartManagerProject\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
+D:\Pradnya\SmartManagerRepository\SmartManager\SmartManager\bin\Debug\SmartManager.exe.config
+D:\Pradnya\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.exe
+D:\Pradnya\SmartManagerRepository\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
