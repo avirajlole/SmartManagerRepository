@@ -32,3 +32,6 @@ D:\Aviraj\SmartManagerRepository.git\trunk\SmartManager\SmartManager\obj\Debug\S
 E:\ashu\trunk\SmartManager\SmartManager\bin\Debug\SmartManager.exe.config
 E:\ashu\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.exe
 E:\ashu\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
+D:\test1\trunk\SmartManager\SmartManager\bin\Debug\SmartManager.exe.config
+D:\test1\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.exe
+D:\test1\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
