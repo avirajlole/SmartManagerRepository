@@ -29,3 +29,6 @@ D:\Aviraj\SmartManagerRepository.git\trunk\SmartManager\SmartManager\obj\Debug\S
 D:\Aviraj\SmartManagerRepository.git\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.g.resources
 D:\Aviraj\SmartManagerRepository.git\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.Properties.Resources.resources
 D:\Aviraj\SmartManagerRepository.git\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.csproj.GenerateResource.Cache
+E:\ashu\trunk\SmartManager\SmartManager\bin\Debug\SmartManager.exe.config
+E:\ashu\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.exe
+E:\ashu\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
