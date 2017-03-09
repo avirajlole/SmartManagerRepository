@@ -53,6 +53,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DataControl.cs" />
     <Compile Include="TestWindow.xaml.cs">
       <DependentUpon>TestWindow.xaml</DependentUpon>
     </Compile>
