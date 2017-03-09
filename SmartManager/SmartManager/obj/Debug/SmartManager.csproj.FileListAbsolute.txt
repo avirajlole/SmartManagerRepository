@@ -43,3 +43,7 @@ D:\Majhi Shala\trunk\SmartManager\SmartManager\bin\Debug\SmartManager.exe.config
 D:\Majhi Shala\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.exe
 D:\Majhi Shala\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
 D:\Majhi Shala\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.csprojResolveAssemblyReference.cache
+D:\Pradnya\Shikshan\trunk\SmartManager\SmartManager\bin\Debug\SmartManager.exe.config
+D:\Pradnya\Shikshan\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.exe
+D:\Pradnya\Shikshan\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.pdb
+D:\Pradnya\Shikshan\trunk\SmartManager\SmartManager\obj\Debug\SmartManager.csprojResolveAssemblyReference.cache
