@@ -17,6 +17,8 @@
                 </LinearGradientBrush>
             </Grid.Background>
         </Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="33,209,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="68,245,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Page>
