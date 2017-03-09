@@ -53,13 +53,16 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="DataControl.cs" />
+    <Compile Include="anothertry.xaml.cs">
+      <DependentUpon>anothertry.xaml</DependentUpon>
+    </Compile>
     <Compile Include="new.xaml.cs">
       <DependentUpon>new.xaml</DependentUpon>
     </Compile>
-    <Compile Include="TestWindow.xaml.cs">
-      <DependentUpon>TestWindow.xaml</DependentUpon>
-    </Compile>
+    <Page Include="anothertry.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -73,10 +76,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="new.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="TestWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -112,6 +111,9 @@
     <Folder Include="Model\" />
     <Folder Include="ViewModel\" />
     <Folder Include="View\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
